@@ -1,0 +1,16 @@
+{
+  "name": "Bright Kwasi | Web Developer",
+  "short_name": "Bright Kwasi",
+  "description": "I build high-converting websites & digital experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1222",
+  "theme_color": "#0c1222",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
