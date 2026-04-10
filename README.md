@@ -1,14 +1,15 @@
-# Trotro Route Finder
+# Personal Portfolio Website
 
-A web application that helps users find and explore trotro (public transport) routes in Ghana. The system aims to simplify navigation by providing structured route information between locations.
+This is my personal portfolio website showcasing my skills, projects, and services as a web developer and business owner.
 
 ---
 
 ## 🚀 Features
-- Search for routes between locations
-- View available trotro paths
-- Simple and user-friendly interface
-- Designed for urban transport accessibility
+- Modern responsive design
+- Project showcase section
+- About me section
+- Contact information
+- Services overview
 
 ---
 
@@ -16,34 +17,34 @@ A web application that helps users find and explore trotro (public transport) ro
 - HTML
 - CSS
 - JavaScript
-- Superbase
+
 
 ---
 
-## 🎯 Project Goal
-Public transport in many cities can be difficult to navigate due to lack of structured route information. This project attempts to solve that by organizing route data into a simple digital format.
+## 🎯 Purpose
+This portfolio represents my work as a web developer and my web design brand. It is designed to help clients and recruiters understand my skills and services.
 
 ---
 
 ## 👨‍💻 My Role
-- Designed and implemented the frontend
-- Structured route display logic
-- Built UI for user interaction
-- Integrated route data handling
+- Designed and developed entire website
+- Structured layout and content
+- Implemented responsive design
+- Optimized for user experience
 
 ---
 
 ## 📌 Future Improvements
-- Add interactive map integration (Google Maps / Leaflet)
-- Real-time route updates
-- Search autocomplete for locations
-- Backend database for scalable route storage
+- Add blog section
+- Improve animations and interactivity
+- Add case studies for projects
+- SEO optimization
 
 ---
 
-## 📷 Screenshots
-
+## 🌐 Live Website
+https://buildwithbright.xyz
 
 ---
 
-## 🌐 Live Demo
+
